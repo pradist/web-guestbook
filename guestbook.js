@@ -1,7 +1,7 @@
 /**
  * Web application
  */
-const apiUrl = 'http://localhost:8000/guestbook';
+const apiUrl = 'http://34.95.245.107:8000/guestbook';
 const guestbook = {
   // retrieve the existing guestbook entries
   get() {
